@@ -187,3 +187,17 @@ systemctl restart sshd
 [Настройка NaiveProxy](../Setting_VPN/NaiveProxy.md)
 
 И возможно в скорем времени расскажу про протокол Miera.
+
+# Шаг 5. Настроёка cdn
+
+Тут будет настройка cdn
+
+# Шаг 6. Настройка warp
+
+Настройка warp для AmneziaWG 2.0
+---
+С перва нужно...
+
+Настройка warp для vless
+---
+С перва нужно...
