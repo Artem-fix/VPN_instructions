@@ -8,3 +8,17 @@
 
 # Настройка AmneziaWG 2.0
 
+Первым делом скачиваем клиент Amnezia VPN, сделать это можно или стелефона скачав из [Google Play](https://play.google.com/store/apps/details?id=org.amnezia.vpn&hl=ru), или в [App Store](https://apps.apple.com/us/app/amneziavpn/id1600529900), или с их [офф сайта](https://amnezia.org/ru) (но его заблокировал ркн), я же скачаю с их [github репозитория](https://github.com/amnezia-vpn/amnezia-client).
+
+Переходите на сайт:
+
+![](/image/Рисунок%204.png)
+
+Скачиваем apk файл под вашу архитектуру:
+
+![](/image/Безымянный.png)
+
+Переходим в приложение Amndezia VPN, и выбираем пункт self-hosted vpn
+
+![](/image/Безымянный2.png)
+
