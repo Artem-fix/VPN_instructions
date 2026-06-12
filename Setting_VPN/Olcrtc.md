@@ -323,3 +323,10 @@ systemctl list-units --type=service --state=running
 Нам нужно просмтреть только наши процессы, вы их сразу увидите:
 
 [картинка]()
+
+Полная перезагрузка systemctl:
+
+```
+sudo systemctl daemon-reexec
+```
+
